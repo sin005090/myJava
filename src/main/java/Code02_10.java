@@ -8,6 +8,7 @@ public class Code02_10 {
 
         num = s.nextInt();
         System.out.println("사용자가 입력한 값 ====>" + num);
+        System.out.println("1");
 
         s.close();
     }
